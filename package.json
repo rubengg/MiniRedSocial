@@ -1,0 +1,11 @@
+{
+	"name":"node_mongodb",
+	"description":"Programa que emplea mongodb en node.js",
+	"version":"0.0.1",
+	"private":true,
+	"dependencies":
+	{
+		"express":"*",
+		"mongodb":"*"
+	}
+}

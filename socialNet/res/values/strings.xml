@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">red_social_Sala</string>
+    <string name="action_settings">Settings</string>
+    <color name="blanco">#fff</color>
+    <string name="hello_world">Hello world!</string>
+    
+    <color name="cereza">#8a0829</color>
+    <color name="azul">#2F5FFC</color>
+    <color name="verdeclaro">#B4FFC8</color>
+    
+    <string name="tittlle">RubenBook</string>
+    
+    <string name="login">Iniciar Sesion</string>
+    
+    <string name="reg">Crear Cuenta</string>
+    
+    <string name="contacName">"Nombre "</string>
+    
+    <string name="contactEmail">Correo </string>
+    
+    <string name="contactDesc">Descripcion</string>
+    
+    <string name="contactTittle">Vista del Contacto</string>
+    
+    <string name="btReturn">Volver</string>
+    
+    <string name="viewContact">Ver</string>
+    
+    <string name="addCom">Comentar</string>
+    
+    <string name="welcome">Bienvenido</string>
+    
+    <string name="passwd">Contraseña</string>
+    
+    <string name="startsession">Iniciar Sesion</string>
+    
+    <string name="btMain"></string>
+    
+    <string name="users">Usuarios</string>
+    
+    <string name="profile">Perfil</string>
+    
+    <string name="exit">Salir</string>
+    
+    <string name="name">Nombre</string>
+    
+    <string name="save">Guardar Cambios</string>
+    
+    <string name="closeCount">Cancelar Cuenta</string>
+    
+    <string name="main">Muro</string>
+    
+    <string name="publishing">Publicar</string>
+    
+    <string name="btPublic">Publicar</string>
+    
+    <string name="registry">Registro</string>
+    
+    <string name="confirmPasswd">Confirmar Contraseña</string>
+    
+    <string name="registrar">Registrar</string>
+
+</resources>
